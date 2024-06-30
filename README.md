@@ -6,3 +6,5 @@ My areas of interest include:
 - 🎡 engine development (ECS, memory management, parallelism, math / physics)
 - 🔉 audio (synthesis, VST plugins)
 - 🎮 gameplay (mostly worked with Godot 3/4, learning Unity)
+
+In my spare time I'm learning to draw (pixelart, digital, traditional) and produce music (guitar, Ableton). I'm also studying Japanese 🎌.
