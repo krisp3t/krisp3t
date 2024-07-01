@@ -13,7 +13,7 @@ In my spare time I'm learning to draw (pixelart, digital, traditional) 🎨 and 
 ### Android games
 - 🐸 [Ribbit Riddles](https://github.com/krisp3t/ribbit-riddles) - Froggy 2D puzzle game. Can you solve over 40 riddles? Included level editor. [itch.io link](https://krisp3t.itch.io/ribbit-riddles) [Google Play coming soon]
 ### Game Jams
-- 🏴‍☠️🐈 [Paws and Plunder](https://github.com/pigslyer/BlackCat2024) - black pirate cats robbing trader mice! 3D Godot game in the toon style of The Wind Waker and Doom.
+- 🏴‍☠️🐈 [Paws and Plunder](https://github.com/pigslyer/BlackCat2024) - black pirate cats robbing trader mice! 3D Godot game in the toon style of The Wind Waker and Doom. [itch.io link](https://pigslyer.itch.io/black-cat)
 - 🤡 [Class Clown](https://github.com/krisp3t/class-clown) - cause mayhem and make classmates burst into laughter! 2D Godot game, inspired by Rockstar's Bully. [itch.io link](https://krisp3t.itch.io/class-clown)
 ### Rendering Engines
 - [KrisRenderer](https://github.com/krisp3t/KrisRenderer) - my DX11, OpenGL and SW 3D renderer as a project to learn the graphics pipeline.
