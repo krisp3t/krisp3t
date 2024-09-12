@@ -10,6 +10,8 @@ My areas of interest include:
 In my spare time I'm learning to draw (pixelart, digital, traditional) 🎨 and produce music (guitar, Ableton) 🎸. I'm also studying Japanese 🎌.
 
 # My projects
+### Embedded
+- [KrisRaycaster](https://github.com/krisp3t/KrisRaycaster) - Raycaster 3D renderer (Wolfenstein 3D style) for STM32 embedded platform
 ### Android games
 - 🐸 [Ribbit Riddles](https://github.com/krisp3t/ribbit-riddles) - Froggy 2D puzzle game. Can you solve over 40 riddles? Included level editor. [Google Play](https://play.google.com/store/apps/details?id=com.krisp3t.ribbitriddles&pli=1)
 ### Game Jams
