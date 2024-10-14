@@ -1,5 +1,5 @@
 # 👩🏻‍💻 Kris Petrič (クリス・ペトリッチ) 
-Passionate about computer graphics, the intersection of engineering and art. I mostly work in C++ and C#. Based in Ljubljana, Slovenia 🇸🇮.
+Passionate about computer graphics, the intersection of engineering and art. I mostly work in C++ and C#.
 
 My areas of interest include: 
 - 🖼️ graphics programming - working w/ OpenGL, DX11, eventually moving onto DX12 & Vulkan
@@ -9,6 +9,8 @@ My areas of interest include:
 - 🎮 gameplay development - Godot, Unity
 
 My hobbies include: digital painting, music production, gaming, guitar, practicing Japanese, arthouse films, studying visual art theory & history, music critique, frogs.
+
+Based in Ljubljana, Slovenia 🇸🇮.
 
 # 🛠 My projects
 
